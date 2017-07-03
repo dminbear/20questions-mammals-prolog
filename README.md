@@ -27,7 +27,7 @@ Prove and ProveNegation should be filled with what is returned from the previous
  eg:	
  
  ```
- 	?- q1(yes, X, Y, A).
+        ?- q1(yes, X, Y, A).
 	?- X = [something]
 	?- Y = [something]
 	?- A = [q2, something, something, something]
